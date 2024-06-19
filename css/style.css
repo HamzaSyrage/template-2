@@ -432,7 +432,9 @@ header nav .icon i {
 
 /* desgin end  */
 /* Portfolio :start */
-
+.Portfolio {
+  padding-bottom: 100px;
+}
 
 .Portfolio .shuflle {
   text-align: center;
